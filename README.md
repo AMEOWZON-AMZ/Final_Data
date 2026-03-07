@@ -1,3 +1,8 @@
+
+<img width="3338" height="1376" alt="AMZ_시스템 아키텍처" src="https://github.com/user-attachments/assets/8fb8ea9c-4d5f-4530-9503-fdd5ba6b86c4" />
+<img width="1651" height="1600" alt="AMZ_시스템 아키텍처 (1)" src="https://github.com/user-attachments/assets/79297ad7-6539-4517-a9f4-d541d63f2f2f" />
+
+
 # Data Engineering Pipeline Portfolio (AWS)
 
 실시간 이벤트 수집부터 개인정보 비식별화, 데이터 레이크 ETL, 이상/위험 상황 탐지까지 구성한 AWS 기반 데이터 엔지니어링 프로젝트입니다.
